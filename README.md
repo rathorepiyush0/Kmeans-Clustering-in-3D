@@ -1,5 +1,5 @@
 # Project Title
-Kmeans Clustering Of Students
+Kmeans Clustering Of Students in 3D
 # Problem Statement
 implemention of kmeans using python sklearn library. We will use Kmeans to cluster students in a dataset.
 # Dataset Used
